@@ -1,7 +1,7 @@
 body {
-    background-image: url(../img/image1.png)
-    ;
-    background-size: auto;
-    
-
+background-image: url(../img/image1.png),url(../img/image2.png),url(../img/image3.png) ;
+background-size: 20%, 20%, 700px 900px;
+background-repeat: no-repeat, no-repeat, no-repeat;
+background-attachment: fixed, fixed,fixed;
+background-position: left, right,center;
   }
