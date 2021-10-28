@@ -1,10 +1,14 @@
 body {
 background-image: url(../img/image1.png),url(../img/image2.png),url(../img/thetrollhouse2.jpg);
-background-size: 20%, 20%, 1024px 650px;
+background-size: 20%, 20%, 100%;
 background-repeat: no-repeat, no-repeat, no-repeat;
 background-attachment: fixed,fixed,fixed;
 background-position: left,right,top;
   }
+body {
+  padding-bottom: 100%;
+border-bottom: 5px solid rgb(255, 255, 255)
+}
 nav {
 position:fixed;
 top:0;
