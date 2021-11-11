@@ -17,12 +17,38 @@ border-bottom: 5px solid rgb(0, 0, 0);
 opacity: 0.9;
 }
 .header-right {
-  color: rgb(155, 0, 0);
-  text-decoration: none;
   display: flex;
   justify-content: space-around;
   flex-direction: row;
-  font-size: 25px;
-  font-weight: bold;
+  font-size: 29px;
 }
+.Home {
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
+}
+.Trailer{
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
+}
+.Contact{
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
+}
+.About{
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
+}
+.Gallery{
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
+}
+.Clips{
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none; 
+  color:rgb(255, 255, 255);
 }
