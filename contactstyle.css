@@ -1,9 +1,9 @@
 @font-face{
     font-family: Nice;
-    src:url(/font/Century-Old-Style-Italic.ttf);
+    src:url("../font/Century-Old-Style-Italic.ttf");
 }
 body {
-background-image: url(../img/image1.png),url(../img/image2.png),url(../img/thetrollhouse2.jpg);
+background-image: url("../img/image1.png"),url("../img/image2.png"),url("../img/thetrollhouse2.jpg");
 background-size: 20%, 20%, auto;
 background-repeat: no-repeat, no-repeat, repeat;
 background-attachment: fixed,fixed,fixed;
